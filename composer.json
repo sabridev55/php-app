@@ -1,0 +1,17 @@
+{
+    "name": "sabridev/php-app",
+    "description": "a library to use in your projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sabridev\\PhpApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sabir chikeur"
+        }
+    ],
+    "require": {}
+}
