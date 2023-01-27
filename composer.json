@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Sabridev\\PhpApp\\": "src/"
+            "sabridev\\phpapp\\": "src/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
             "name": "sabir chikeur"
         }
     ],
-    "require": {}
+    "require": {
+        "markbaker/matrix": "^3.0"
+    }
 }
